@@ -5,7 +5,8 @@ launch by
 bash easy_install_AWS_CLI.sh
 
 
- # -----------COPY DYNAMODB TABLE ITEMS TO ANOTHER TABLE------------------
+# -----------COPY DYNAMODB TABLE ITEMS TO ANOTHER TABLE------------------
+
 AWS_CLI supposed te be installed and configured with `aws configure`
 
 launch script via:
