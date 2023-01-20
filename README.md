@@ -10,4 +10,5 @@ bash easy_install_AWS_CLI.sh
 AWS_CLI supposed te be installed and configured with `aws configure`
 
 launch script via:
-python3 imports_products()
+
+python3 import_products()
