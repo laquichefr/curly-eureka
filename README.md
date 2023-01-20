@@ -1,7 +1,7 @@
 # -------------EASY INSTALL AWS CLI--------------
 
 this script saves you a lot of aws doc reading time
-launch by
+
 bash easy_install_AWS_CLI.sh
 
 
@@ -10,4 +10,4 @@ bash easy_install_AWS_CLI.sh
 AWS_CLI supposed te be installed and configured with `aws configure`
 
 launch script via:
-python copy_to_new_table()
+python3 imports_products()
